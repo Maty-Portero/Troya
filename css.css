@@ -1,0 +1,74 @@
+body{
+    background-color: salmon;
+}
+
+.dropdown-content{
+    color: black;
+}
+
+span{
+    color: black;
+}
+
+.nav{
+    color: black;
+    text-decoration: none;
+    background-color: #fff;
+}
+
+.nav:hover{
+    color: black;
+    background-color: salmon;
+}
+
+.nav:active{
+    color: black;
+}
+
+.container.gallery-container {
+    background-color: #fff;
+    color: #35373a;
+    min-height: 100vh;
+    text-align: center;
+    box-shadow: 0 8px 15px rgba(0, 0, 0, 0.06);
+}
+
+h1{
+    text-align: center; 
+}
+
+.logo{
+    text-align: center;
+}
+
+h2{
+    text-align: right;
+}
+
+.pfoot{
+    display: inline;
+    vertical-align: middle;
+}
+
+table{
+    display: inline;
+}
+
+footer{
+    position:inherit;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    color: white;
+    text-align: center;
+    color: white;
+}
+
+#contact:hover{
+    color: black;
+    background-color: salmon;
+}
+
+#contact:active{
+    color: black;
+}
